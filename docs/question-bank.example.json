@@ -1,0 +1,85 @@
+[
+  {
+    "title": "Practice · Confidence is not a grade",
+    "stem": "[Authored practice example, not a supplied riddle] A learner answers correctly but selects “Guessing.” Which interpretation is justified by this response alone?",
+    "topic": "Diagnostic reasoning",
+    "difficulty": "easy",
+    "kind": "choice",
+    "marks": 5,
+    "options": [
+      "Mastery is proven",
+      "Evidence of knowledge is fragile",
+      "The learner must be careless"
+    ],
+    "accepted_answers": [
+      "Evidence of knowledge is fragile"
+    ],
+    "explanation": "Correctness with low confidence gives fragile evidence. A single response cannot prove luck or mastery.",
+    "misconceptions": {
+      "Mastery is proven": "correct-means-mastery",
+      "The learner must be careless": "unsupported-cause"
+    },
+    "hint": "One response is weak evidence about the process behind it.",
+    "hint_cost": 1,
+    "probe": {
+      "stem": "A correct answer with low certainty establishes which claim?",
+      "options": [
+        "Further evidence is useful",
+        "The student knows everything",
+        "The student knows nothing"
+      ],
+      "answer": "Further evidence is useful"
+    },
+    "published": true
+  },
+  {
+    "title": "Practice · Interpret a reworded probe",
+    "stem": "[Authored practice example, not a supplied riddle] A student is wrong and sure, then passes a well-matched reworded probe. What tentative explanation deserves investigation?",
+    "topic": "Diagnostic reasoning",
+    "difficulty": "medium",
+    "kind": "choice",
+    "marks": 5,
+    "options": [
+      "A possible execution slip",
+      "A proven permanent misconception",
+      "No learning is possible"
+    ],
+    "accepted_answers": [
+      "A possible execution slip"
+    ],
+    "explanation": "A passed matched probe is consistent with a slip, but guessing and item differences remain possible.",
+    "misconceptions": {
+      "A proven permanent misconception": "fixed-label",
+      "No learning is possible": "fixed-ability"
+    },
+    "hint": "Compare what changes when the wording changes.",
+    "hint_cost": 1,
+    "probe": {
+      "stem": "If the same concept is solved with clearer wording, what should a teacher do?",
+      "options": [
+        "Investigate a possible reading slip",
+        "Permanently label the learner",
+        "Ignore the new evidence"
+      ],
+      "answer": "Investigate a possible reading slip"
+    },
+    "published": true
+  },
+  {
+    "title": "Practice · Name the missing evidence",
+    "stem": "[Authored practice example, not a supplied riddle] What term describes applying an idea to a new situation? Enter the term.",
+    "topic": "Transfer & retention",
+    "difficulty": "easy",
+    "kind": "text",
+    "marks": 5,
+    "accepted_answers": [
+      "transfer",
+      "learning transfer",
+      "transfer of learning"
+    ],
+    "explanation": "Transfer means applying learning in a different context; retention means maintaining it over time.",
+    "hint": "It begins with “trans”.",
+    "hint_cost": 1,
+    "published": true
+  }
+]

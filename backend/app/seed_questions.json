@@ -1,0 +1,137 @@
+[
+  {
+    "title": "The Same Number",
+    "stem": "Two learners receive the same mark. One understood the material and misread the question; the other guessed and got lucky. The number puts them together while their needs are far apart. Marks, grades, ticks, streaks and rankings are how learning is usually counted, and they say almost nothing about how anyone got there. What does a learner understand that a number cannot show, and who is let down when the number is all we look at?",
+    "explanation": "A score is many-to-one: knowledge, execution slips and lucky guesses can produce the same result. Collect confidence, reasoning, misconception-coded choices and a matched reworded probe. Use these as tentative evidence for targeted support, not permanent labels. Slips need reading support; fragile knowledge needs instruction; teachers need patterns rather than averages.",
+    "rubric": "2 points: explain equal marks do not imply equal understanding. 3: distinguish slips, guesses and knowledge. 3: propose additional evidence with uncertainty. 2: identify affected learners and teachers.",
+    "topic": "Learning & evidence",
+    "difficulty": "easy",
+    "kind": "reflection",
+    "marks": 10,
+    "hint": "Which additional evidence would change your interpretation?",
+    "hint_cost": 1,
+    "published": true
+  },
+  {
+    "title": "One Error, Several Stories",
+    "stem": "Three learners choose the same wrong answer. One followed a mistaken rule. One missed a condition in the question. One ran out of time before reaching it. A teacher, a tool or a parent looking at the mistake sees only one of these stories, and usually picks the first that comes to mind. What would it take to treat a mistake as a clue instead of a verdict, and what would you need to see before choosing a story?",
+    "explanation": "Keep multiple hypotheses open. Ask the learner to explain a step or restate the condition, offer a parallel reworded item without time pressure, and inspect timing or whether the item was reached. A repeated systematic rule supports a misconception; success after restating a condition supports a reading slip; untimed success with incomplete timed work supports a time constraint. None proves a cause alone. Let learners correct the interpretation.",
+    "rubric": "2 points: maintain three hypotheses. 3: select discriminating observations. 3: link predicted outcomes to hypotheses. 2: acknowledge uncertainty, consent and alternatives.",
+    "topic": "Learning & evidence",
+    "difficulty": "medium",
+    "kind": "reflection",
+    "marks": 10,
+    "hint": "Which additional evidence would change your interpretation?",
+    "hint_cost": 1,
+    "published": true
+  },
+  {
+    "title": "The Question That Separates",
+    "stem": "You may ask one more thing. Asking the same question again will repeat the confusion, and some questions tell you almost nothing whatever the answer. Others send the possible explanations in different directions. But every extra question costs the learner time and patience, and some stop answering honestly once they feel tested. What should you ask, offer or observe when your purpose is to understand rather than to score, and who decides what comes next?",
+    "explanation": "Choose the smallest learner-consented probe whose predicted outcomes differ across the live hypotheses. For a missed condition, ask for a restatement and a matched item; for time pressure, offer an untimed continuation. Compare expected information gain with burden and anxiety, allow abstention, and stop when evidence is sufficient for a reversible instructional action. Teacher and learner interpret together. No universally optimal question exists without context.",
+    "rubric": "2 points: competing hypotheses. 3: discriminating probe and predictions. 2: information versus burden. 3: agency, uncertainty and stopping rule.",
+    "topic": "Learning & evidence",
+    "difficulty": "hard",
+    "kind": "reflection",
+    "marks": 10,
+    "hint": "Which additional evidence would change your interpretation?",
+    "hint_cost": 1,
+    "published": true
+  },
+  {
+    "title": "Better Marks, Better Understanding?",
+    "stem": "You offer a next step, and the next score rises. Perhaps the idea became clear. Perhaps the pattern became familiar. Perhaps the learner just got used to your tool. Change the situation, take the tool away, come back in a month: does the understanding survive? What would convince you that someone has learned something, not just got better at your questions, and what do you change when it didn’t travel?",
+    "explanation": "Look for explanation and transfer to unfamiliar equivalent tasks, unaided performance and delayed retention. Use alternate forms matched for difficulty and establish baseline evidence. Compare instruction conditions where possible and report uncertainty. If improvement does not transfer, revisit misconceptions, vary examples, scaffold then fade support, and reassess on a new task. One higher score cannot establish causal learning gains.",
+    "rubric": "3 points: distinguish familiarity from learning. 3: novel, unaided and delayed checks. 2: comparison and uncertainty. 2: adapt instruction when transfer fails.",
+    "topic": "Learning & evidence",
+    "difficulty": "hard",
+    "kind": "reflection",
+    "marks": 10,
+    "hint": "Which additional evidence would change your interpretation?",
+    "hint_cost": 1,
+    "published": true
+  },
+  {
+    "title": "Practice · Confidence is not a grade",
+    "stem": "[Authored practice example, not a supplied riddle] A learner answers correctly but selects “Guessing.” Which interpretation is justified by this response alone?",
+    "topic": "Diagnostic reasoning",
+    "difficulty": "easy",
+    "kind": "choice",
+    "marks": 5,
+    "options": [
+      "Mastery is proven",
+      "Evidence of knowledge is fragile",
+      "The learner must be careless"
+    ],
+    "accepted_answers": [
+      "Evidence of knowledge is fragile"
+    ],
+    "explanation": "Correctness with low confidence gives fragile evidence. A single response cannot prove luck or mastery.",
+    "misconceptions": {
+      "Mastery is proven": "correct-means-mastery",
+      "The learner must be careless": "unsupported-cause"
+    },
+    "hint": "One response is weak evidence about the process behind it.",
+    "hint_cost": 1,
+    "probe": {
+      "stem": "A correct answer with low certainty establishes which claim?",
+      "options": [
+        "Further evidence is useful",
+        "The student knows everything",
+        "The student knows nothing"
+      ],
+      "answer": "Further evidence is useful"
+    },
+    "published": true
+  },
+  {
+    "title": "Practice · Interpret a reworded probe",
+    "stem": "[Authored practice example, not a supplied riddle] A student is wrong and sure, then passes a well-matched reworded probe. What tentative explanation deserves investigation?",
+    "topic": "Diagnostic reasoning",
+    "difficulty": "medium",
+    "kind": "choice",
+    "marks": 5,
+    "options": [
+      "A possible execution slip",
+      "A proven permanent misconception",
+      "No learning is possible"
+    ],
+    "accepted_answers": [
+      "A possible execution slip"
+    ],
+    "explanation": "A passed matched probe is consistent with a slip, but guessing and item differences remain possible.",
+    "misconceptions": {
+      "A proven permanent misconception": "fixed-label",
+      "No learning is possible": "fixed-ability"
+    },
+    "hint": "Compare what changes when the wording changes.",
+    "hint_cost": 1,
+    "probe": {
+      "stem": "If the same concept is solved with clearer wording, what should a teacher do?",
+      "options": [
+        "Investigate a possible reading slip",
+        "Permanently label the learner",
+        "Ignore the new evidence"
+      ],
+      "answer": "Investigate a possible reading slip"
+    },
+    "published": true
+  },
+  {
+    "title": "Practice · Name the missing evidence",
+    "stem": "[Authored practice example, not a supplied riddle] What term describes applying an idea to a new situation? Enter the term.",
+    "topic": "Transfer & retention",
+    "difficulty": "easy",
+    "kind": "text",
+    "marks": 5,
+    "accepted_answers": [
+      "transfer",
+      "learning transfer",
+      "transfer of learning"
+    ],
+    "explanation": "Transfer means applying learning in a different context; retention means maintaining it over time.",
+    "hint": "It begins with “trans”.",
+    "hint_cost": 1,
+    "published": true
+  }
+]
