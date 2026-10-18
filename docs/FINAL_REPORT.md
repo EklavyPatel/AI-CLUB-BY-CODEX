@@ -65,7 +65,7 @@ Screenshots in `docs/screenshots` use synthetic accounts. They are local visual-
 
 ## GitHub and deployment status
 
-Repository: https://github.com/EklavyPatel/AI-CLUB-BY-CODEX . The existing repository was verified empty before development and reused; no existing project files or remote branches were overwritten. Delivery uses `main` and a normal non-force push. Remote-push confirmation is reported in the delivery response.
+Repository: https://github.com/EklavyPatel/AI-CLUB-BY-CODEX . The existing repository was verified empty before development and reused; no existing project files or remote branches were overwritten. The initial implementation was successfully pushed to `main`, and the remote commit was verified against local HEAD. No force push was used.
 
 **Not deployed.** No live website URL exists from this work. `render.yaml`, `vercel.json`, a backend Dockerfile, `.env.example` files and deployment instructions are provided. Hosted frontend/backend integration, Render/Vercel provisioning, managed database backups and production TLS/ingress behavior remain unverified until provider authorization and configuration. The optional Dockerfile has not been built in this validation run; native Python/npm startup was used.
 
